@@ -33,7 +33,9 @@ The code is developed and tested under the following environment:
 Install the required packages via pip:
 
     pip install torch numpy h5py matplotlib scikit-image pytorch-msssim numba
-
+    
+## ⚠️ Dataset Download Instructions
+The raw scripts expect a `noise_bank/` directory in the root folder. Please download the empirical noise datasets from the [Releases](你的Release链接地址) page, extract them, and place them inside a newly created `noise_bank/` folder before running the code.
 ## Quick Start
 
 ### 1. Dataset Generation
