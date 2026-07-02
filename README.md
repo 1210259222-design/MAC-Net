@@ -12,7 +12,7 @@ This repository contains the official PyTorch implementation and the empirical n
     │   ├── real_noise_purified.h5
     │   ├── simulated_noise_custom.h5
     │   └── simulated_noise_multiregion.h5
-    └── README.md
+    └── README.txt
 
 ## Data Availability Statement
 
